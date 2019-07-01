@@ -1,4 +1,4 @@
-aeroplane
-bicycle
-bird
-boat
+car
+bus
+train
+truck
